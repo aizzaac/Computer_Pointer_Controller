@@ -1,0 +1,17 @@
+12-Jun-21 08:00:13 [INFO] 107 ############# Looad Time #############
+12-Jun-21 08:00:13 [INFO] 114 Face Detection model (ms): 219.3
+12-Jun-21 08:00:13 [INFO] 121 Head Pose Estimation model (ms): 71.7
+12-Jun-21 08:00:13 [INFO] 128 Facial Landmarks Regression model (ms): 63.3
+12-Jun-21 08:00:13 [INFO] 135 Gaze Estimation model(ms): 89.7
+12-Jun-21 08:00:13 [INFO] 140 ##########################################
+12-Jun-21 08:01:47 [INFO] 221 ############# Models Inference Time #############
+12-Jun-21 08:01:47 [INFO] 222 Face Detection Model (ms): 27.5
+12-Jun-21 08:01:47 [INFO] 223 Facial Landmarks Detection Model (ms): 1.0
+12-Jun-21 08:01:47 [INFO] 224 Head Pose Detection Model (ms): 2.2
+12-Jun-21 08:01:47 [INFO] 225 Gaze Detection Model (ms): 2.7
+12-Jun-21 08:01:47 [INFO] 226 ##########################################
+12-Jun-21 08:01:47 [INFO] 242 ############# Stats summary #############
+12-Jun-21 08:01:47 [INFO] 243 Total Model Load Time: 0.444525421000435
+12-Jun-21 08:01:47 [INFO] 244 Total Inference Time: 94.1
+12-Jun-21 08:01:47 [INFO] 245 FPS: 6.323060573857599
+12-Jun-21 08:01:47 [INFO] 246 #################################################
