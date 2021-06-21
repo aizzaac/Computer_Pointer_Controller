@@ -157,7 +157,7 @@ For benchmarking, the following metrics were used:
 * Total inference time (sec)
 * Frames per second (FPS)
 
-Some plots can be seen in Benchmark_CPC.ipynb or Benchmark_CPC.pdf.
+Some plots can be seen in Benchmark_CPC.ipynb.
 
 
 | Precision  |  Model Load Time  | Inference Time |        FPS        |
