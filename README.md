@@ -7,7 +7,7 @@ This is a computer vision app that moves the mouse pointer using the user's gaze
 * gaze-estimation-adas-0002
 
 In this project, the models execute in sequence: the output of a model is used as the input of other model. 
-
+![Project Pipeline](./images/Project_pipeline.png)
 
 ## Project Set Up and Installation
 1. Download and install OpenVINO
