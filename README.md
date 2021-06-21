@@ -25,15 +25,18 @@ In this project, the models execute in sequence: the output of a model is used a
 
 
 3. Create a virtual environment
+
    ```python3 -m venv myenv```
-   ```source chico/bin/activate```
+   ```source myenv/bin/activate```
 
 
 4. Set OpenVINO environment variables
+
    ```source /opt/intel/openvino_2020.2/bin/setupvars.sh```
 
 
 5. Install dependecies
+
    ```pip3 install -r requirements.txt```
 
 
