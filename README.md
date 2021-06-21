@@ -27,6 +27,7 @@ In this project, the models execute in sequence: the output of a model is used a
 3. Create a virtual environment
 
    ```python3 -m venv myenv```
+   
    ```source myenv/bin/activate```
 
 
